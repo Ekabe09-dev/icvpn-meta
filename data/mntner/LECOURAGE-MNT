@@ -1,0 +1,7 @@
+mntner:         LECOURAGE-MNT
+descr:          lecouRAGE Network DN42 Maintainer
+admin-c:        LAURENT-EKABE
+tech-c:         LAURENT-EKABE
+auth:           ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKQvqrhlTS/giEFeiyxIQwUkX4PSMlOPrejEIEpa9xfb
+mnt-by:         LECOURAGE-MNT
+source:         DN42
